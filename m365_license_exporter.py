@@ -3,6 +3,7 @@
 M365 License Exporter
 Pull user license assignments and tenant SKU counts via Microsoft Graph API.
 Copyright (c) 2026 Teslamu
+Licensed under the MIT License. See LICENSE file in the project root for full license information.
 """
 
 import csv
